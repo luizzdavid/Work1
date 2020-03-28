@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d073d44a-136d-4703-bc26-e1f9fe80b741" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1V1PFXyK09NHDHYKlND2MRbgngG" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunManager" selected="Application.TrueOnlyIfNDogsOrNCatsArePresent">
+    <configuration name="IfArrayContainsEitherDogOrCat" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="weekfive.IfArrayContainsEitherDogOrCat" />
+      <module name="Work1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="weekfive.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="KOKO" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="weekfive.KOKO" />
+      <module name="Work1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="weekfive.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TrueIfNDogsArePresent" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="weekfive.TrueIfNDogsArePresent" />
+      <module name="Work1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="weekfive.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TrueIfNeitherCatsAndDogsArePresent" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="weekfive.TrueIfNeitherCatsAndDogsArePresent" />
+      <module name="Work1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="weekfive.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TrueOnlyIfNDogsOrNCatsArePresent" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="weekfive.TrueOnlyIfNDogsOrNCatsArePresent" />
+      <module name="Work1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="weekfive.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.TrueOnlyIfNDogsOrNCatsArePresent" />
+        <item itemvalue="Application.KOKO" />
+        <item itemvalue="Application.TrueIfNeitherCatsAndDogsArePresent" />
+        <item itemvalue="Application.IfArrayContainsEitherDogOrCat" />
+        <item itemvalue="Application.TrueIfNDogsArePresent" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d073d44a-136d-4703-bc26-e1f9fe80b741" name="Default Changelist" comment="" />
+      <created>1576417527903</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1576417527903</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="325" y="248" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog" timestamp="1585238927854">
+      <screen x="0" y="0" width="1152" height="824" />
+    </state>
+    <state x="325" y="248" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog/0.0.1152.824@0.0.1152.824" timestamp="1585238927854" />
+    <state x="356" y="166" key="FileChooserDialogImpl" timestamp="1585123695812">
+      <screen x="0" y="0" width="1152" height="824" />
+    </state>
+    <state x="356" y="166" key="FileChooserDialogImpl/0.0.1152.824@0.0.1152.824" timestamp="1585123695812" />
+    <state x="458" y="305" width="260" height="214" key="Github.ShareDialog" timestamp="1585237986862">
+      <screen x="0" y="0" width="1152" height="824" />
+    </state>
+    <state x="458" y="305" width="260" height="214" key="Github.ShareDialog/0.0.1152.824@0.0.1152.824" timestamp="1585237986862" />
+    <state width="1109" height="170" key="GridCell.Tab.0.bottom" timestamp="1585405033031">
+      <screen x="0" y="0" width="1152" height="824" />
+    </state>
+    <state width="1109" height="170" key="GridCell.Tab.0.bottom/0.0.1152.824@0.0.1152.824" timestamp="1585405033031" />
+    <state width="1109" height="170" key="GridCell.Tab.0.center" timestamp="1585405033031">
+      <screen x="0" y="0" width="1152" height="824" />
+    </state>
+    <state width="1109" height="170" key="GridCell.Tab.0.center/0.0.1152.824@0.0.1152.824" timestamp="1585405033031" />
+    <state width="1109" height="170" key="GridCell.Tab.0.left" timestamp="1585405033030">
+      <screen x="0" y="0" width="1152" height="824" />
+    </state>
+    <state width="1109" height="170" key="GridCell.Tab.0.left/0.0.1152.824@0.0.1152.824" timestamp="1585405033030" />
+    <state width="1109" height="170" key="GridCell.Tab.0.right" timestamp="1585405033031">
+      <screen x="0" y="0" width="1152" height="824" />
+    </state>
+    <state width="1109" height="170" key="GridCell.Tab.0.right/0.0.1152.824@0.0.1152.824" timestamp="1585405033031" />
+    <state width="1109" height="260" key="GridCell.Tab.1.bottom" timestamp="1585158602633">
+      <screen x="0" y="0" width="1152" height="824" />
+    </state>
+    <state width="1109" height="260" key="GridCell.Tab.1.bottom/0.0.1152.824@0.0.1152.824" timestamp="1585158602633" />
+    <state width="1109" height="260" key="GridCell.Tab.1.center" timestamp="1585158602633">
+      <screen x="0" y="0" width="1152" height="824" />
+    </state>
+    <state width="1109" height="260" key="GridCell.Tab.1.center/0.0.1152.824@0.0.1152.824" timestamp="1585158602633" />
+    <state width="1109" height="260" key="GridCell.Tab.1.left" timestamp="1585158602633">
+      <screen x="0" y="0" width="1152" height="824" />
+    </state>
+    <state width="1109" height="260" key="GridCell.Tab.1.left/0.0.1152.824@0.0.1152.824" timestamp="1585158602633" />
+    <state width="1109" height="260" key="GridCell.Tab.1.right" timestamp="1585158602633">
+      <screen x="0" y="0" width="1152" height="824" />
+    </state>
+    <state width="1109" height="260" key="GridCell.Tab.1.right/0.0.1152.824@0.0.1152.824" timestamp="1585158602633" />
+    <state x="77" y="54" key="SettingsEditor" timestamp="1585385563262">
+      <screen x="0" y="0" width="1152" height="824" />
+    </state>
+    <state x="77" y="54" key="SettingsEditor/0.0.1152.824@0.0.1152.824" timestamp="1585385563262" />
+    <state x="523" y="335" key="com.intellij.ide.util.TipDialog" timestamp="1585408197658">
+      <screen x="0" y="0" width="1152" height="824" />
+    </state>
+    <state x="523" y="335" key="com.intellij.ide.util.TipDialog/0.0.1152.824@0.0.1152.824" timestamp="1585408197658" />
+    <state x="0" y="32" key="new project wizard" timestamp="1585239859262">
+      <screen x="0" y="0" width="1152" height="824" />
+    </state>
+    <state x="0" y="32" key="new project wizard/0.0.1152.824@0.0.1152.824" timestamp="1585239859262" />
+  </component>
+</project>
