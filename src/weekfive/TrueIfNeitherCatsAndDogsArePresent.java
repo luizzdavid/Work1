@@ -7,15 +7,15 @@ public class TrueIfNeitherCatsAndDogsArePresent {
                 n += 1;
             }
         }
-                if(n>1){
-                return false;
-            } else {
-                return true;
-            }
+        if (n > 1) {
+            return false;
+        } else {
+            return true;
         }
+    }
     public static void main(String[]args)
     {
-        String arr[]={"dog","zebra"};
+        String arr[]={"zebra"};
         System.out.println(Check(arr,1));
     }
 }
